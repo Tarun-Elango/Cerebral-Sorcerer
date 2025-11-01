@@ -1,9 +1,7 @@
 # Good old-fashioned Neural Networks
+just building myself a Neural network library from scratch.
 
-Nothing to see here, just building myself a Neural network library from scratch.
-
-Don't you dare use this.
+Use it at your own risk 
 
 Thanks, <br />
 yours truly, <br />
-Stan.
